@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#grid {
+    width: 700px;
+    height: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid;
+}
